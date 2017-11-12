@@ -1,5 +1,10 @@
 * {
   text-align: center;
+  vertical-align: middle;
+}
+.building {
+  background-image: url("C:/Users/diedr/Documents/Codecademy/Broadway/resources/images/the-flatiron-building.png");
+  background-size: cover;
 }
 h1 {
   font-size: 70px;
@@ -31,7 +36,7 @@ p  {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-image: url("C:/Users/diedr/Documents/Codecademy/Broadway/resources/images/the-flatiron-building.png");
 }
 .grey {
   color: white;
@@ -44,7 +49,4 @@ p  {
   color: white;
   background-color: dimgray;
   text-align: left;
-}
-.building {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
